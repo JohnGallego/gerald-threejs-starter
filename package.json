@@ -1,0 +1,27 @@
+{
+  "name": "threejs-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel serve ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnGallego/gerald-threejs-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnGallego/gerald-threejs-starter/issues"
+  },
+  "homepage": "https://github.com/JohnGallego/gerald-threejs-starter#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2"
+  },
+  "dependencies": {
+    "three": "^0.128.0"
+  },
+  "browserslist": "> 0.2%"
+}
